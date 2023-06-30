@@ -8,8 +8,9 @@
   font-size: 16px;
 }
 
+/*BARRA DE ROLAGEM DA PAGINA*/
 ::-webkit-scrollbar {
-  width: 5px;
+  width: 3px;
 }
 
 ::-webkit-scrollbar-track {
