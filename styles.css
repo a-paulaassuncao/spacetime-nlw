@@ -161,3 +161,12 @@ aside span {
     padding: 22px;
   }
 }
+
+#logo-svg  {
+  display: none;
+}
+
+.dev-code {
+  text-decoration: none;
+  color: #9696a0;
+}
