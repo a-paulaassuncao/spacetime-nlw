@@ -19,7 +19,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 Esse é um projeto Web Responsivo, de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
-- [Visite o projeto online](https://a-paulaassuncao.github.io/nlw-spacetime/).
+- [Visite o projeto online](https://a-paulaassuncao.github.io/spacetime-nlw/).
 
 ## 🚀 Tecnologias
 
